@@ -1,0 +1,6 @@
+{
+  "name": "Maestro - Artist Portfolio & Management",
+  "description": "Luxury artist portfolio website and comprehensive artist management dashboard with booking requests, release manager, live audio player, and event tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
